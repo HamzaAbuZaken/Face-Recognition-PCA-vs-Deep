@@ -1,4 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+
 Title : Face Recognition: PCA vs Deep CNN Features
+
+A comparative study between classical PCA-based features and deep CNN representations for face recognition.
 
 Project Overview :
 
