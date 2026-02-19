@@ -38,8 +38,8 @@ Results :
 
 | Method            | Mean Accuracy | Std  |
 |-------------------|--------------|------|
-| PCA + Linear      | 0.820        | 0.011|
-| PCA + RBF         | 0.832        | 0.021|
+| PCA + Linear      | 0.817        | 0.003|
+| PCA + RBF         | 0.832        | 0.020|
 | Deep + Linear     | 0.891        | 0.018|
 | Deep + RBF        | 0.895        | 0.016|
 
